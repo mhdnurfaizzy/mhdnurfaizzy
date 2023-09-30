@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhdnurfaizzy
-- 👀 I’m interested in Automation
+- 👀 I’m interested in QA Automation
 - 🌱 I’m currently learning Puppeteer and Cypress
 - 📫 Have a good time
 
