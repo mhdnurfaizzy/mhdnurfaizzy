@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nurfaizi</h1>
 <h3 align="center">A passionate in Quality Assurance Enginner</h3>
 
-I am a QA Engineer deep in my craft. Previously, my interest in automation started with Puppeteer using Python and continued to explore Cypress with JavaScript. I am currently exploring my skills with Selenium using Java. Thanks for stopping by! Feel free to explore some of my projects and enjoy your time here. 😊
+I am a QA Engineer deep in my craft. Previously, my interest in automation started with Puppeteer and continued to explore Cypress with JavaScript. I am currently exploring my skills with Selenium using Java. Thanks for stopping by! Feel free to explore some of my projects and enjoy your time here. 😊
 
 - 🔭 I’m currently working on **Selenium with Java**
 
